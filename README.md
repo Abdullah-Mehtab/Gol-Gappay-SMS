@@ -153,7 +153,6 @@ python main.py
 ## Contributors
 
 - **Abdullah Mehtab (241607845)**
-- **Ali Abdul Aziz (241560709)**
 - **Faizan Imtiaz Cheema (241605093)**
 
 ### **Supervised by:**
